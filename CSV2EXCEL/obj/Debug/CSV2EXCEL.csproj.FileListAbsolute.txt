@@ -1,0 +1,8 @@
+C:\Users\BlackTomato\Desktop\SampleCode\CSV2EXCEL\CSV2EXCEL\bin\Debug\CSV2EXCEL.exe.config
+C:\Users\BlackTomato\Desktop\SampleCode\CSV2EXCEL\CSV2EXCEL\bin\Debug\CSV2EXCEL.exe
+C:\Users\BlackTomato\Desktop\SampleCode\CSV2EXCEL\CSV2EXCEL\bin\Debug\CSV2EXCEL.pdb
+C:\Users\BlackTomato\Desktop\SampleCode\CSV2EXCEL\CSV2EXCEL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\BlackTomato\Desktop\SampleCode\CSV2EXCEL\CSV2EXCEL\obj\Debug\CSV2EXCEL.csprojResolveAssemblyReference.cache
+C:\Users\BlackTomato\Desktop\SampleCode\CSV2EXCEL\CSV2EXCEL\obj\Debug\CSV2EXCEL.exe
+C:\Users\BlackTomato\Desktop\SampleCode\CSV2EXCEL\CSV2EXCEL\obj\Debug\CSV2EXCEL.pdb
+C:\Users\BlackTomato\Desktop\SampleCode\CSV2EXCEL\CSV2EXCEL\bin\Debug\settings.xml

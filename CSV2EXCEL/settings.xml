@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+    <csvsetting headerrowcount="0"/>
+    <exchangesettings>
+        <exsetting csvcol="0" excelcol="A" header="t01" type="string"/>
+        <exsetting csvcol="3" excelcol="B" header="t02" type="string"/>
+        <exsetting csvcol="5" excelcol="C" header="数値" type="number"/>
+        <exsetting csvcol="6" excelcol="D" header="日付" type="date"/>
+    </exchangesettings>
+</settings>
